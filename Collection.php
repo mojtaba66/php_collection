@@ -1,5 +1,10 @@
 <?php
 
+/*
+ * @author     Mojtaba Zadegi
+ * @author     Ahmad Khaliq
+ */
+
 require_once 'Jsonable.php';
 require_once 'Arrayable.php';
 
