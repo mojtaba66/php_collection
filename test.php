@@ -9,7 +9,7 @@ $array=[
 
 $collection = collect($array);
 echo '<pre>';
-print_r($collection->pluck('account_id','product'));
+print_r($collection->skip(1));
 echo '</pre>';
 
 
